@@ -191,7 +191,7 @@ public class main{
 				+ "Jump (modified)\n"
 				+ "Audience Applause\n\n"
 				+ "All audio files under CC Atribution 3.0 licence "
-				+ "or public domain. ","Credits",JOptionPane.INFORMATION_MESSAGE);
+				+ "or public domain.\nhttp://creativecommons.org/licenses/by/3.0/","Credits",JOptionPane.INFORMATION_MESSAGE);
 	}
 	
 	public void TogglePause(){
