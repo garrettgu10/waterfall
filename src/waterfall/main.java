@@ -13,7 +13,6 @@ enum state{BLANK,GREEN,BLUE,GRAY,DISCO}
 enum gameState {OVER,TIE,ONGOING,PAUSED}
 
 public class main{
-	//looking for comments?
 	static Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 	public static final int BWIDTH = 38;
 	public static final int BHEIGHT = 20;
